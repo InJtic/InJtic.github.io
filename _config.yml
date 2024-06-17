@@ -112,10 +112,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ahn Jae Hyun"
+  name             : "InJtic"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Univ. of Seoul<hr>"
+  location         : "Seoul, Korea"
   email            :
   links:
     - label: "Email"
