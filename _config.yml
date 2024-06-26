@@ -104,10 +104,11 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider: "google-gtag"
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+    tracking_id: "G-NRHKL0Y989"
+    anonymize_ip: false # default
+
 
 
 # Site Author
